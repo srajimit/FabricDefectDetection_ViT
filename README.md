@@ -25,5 +25,5 @@ The application has to be executed as:
 	python -m streamlit run app.py
 
 
-	
+**Download Datasets from Kaggle:** https://www.kaggle.com/datasets/ziya07/multi-class-fabric-defect-detection-dataset
 
